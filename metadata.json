@@ -1,0 +1,6 @@
+{
+  "name": "Housing Society Daily Help Management Dashboard",
+  "description": "A comprehensive housing society dashboard for daily helps, featuring digital gate attendance, instant UPI salary advances with scannable QR, resident ratings, quick-leave alert broadcasts, multilingual profiles, and automated monthly payroll generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
